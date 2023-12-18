@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Sucher
+comment1.params=pAnzahlWerte
+comment1.target=Sucher(int)
+comment2.params=suchschluessel
+comment2.target=boolean\ lineareSucheArray(int)
+comment3.params=suchschluessel
+comment3.target=boolean\ binaereSucheArray(int)
+comment4.params=suchschluessel
+comment4.target=boolean\ lineareSucheList(int)
+numComments=5

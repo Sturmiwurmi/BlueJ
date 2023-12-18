@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Musikverwaltungsprogramm
+comment1.params=pMusiktitel
+comment1.target=void\ Titelhinzuf\u00FCgen(Musiktitel)
+comment2.params=pTietel
+comment2.target=boolean\ Titelgefunden(Musiktitel)
+comment3.params=ptitel\ pinterpret\ pgenere
+comment3.target=boolean\ titelsuchen(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=ptitel\ pinterpret
+comment4.target=boolean\ titelsuchen(java.lang.String,\ java.lang.String)
+comment5.params=ptitel
+comment5.target=boolean\ titelsuchen(java.lang.String)
+numComments=6

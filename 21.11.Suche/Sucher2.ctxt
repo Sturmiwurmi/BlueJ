@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Sucher2
+comment1.params=pArray
+comment1.target=Sucher2(java.lang.Integer[])
+comment2.params=psuchListe
+comment2.target=Sucher2(List)
+comment3.params=suchschluessel
+comment3.target=boolean\ lineareSuche(java.lang.Object)
+numComments=4

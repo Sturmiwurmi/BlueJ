@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=S107Nr6
+comment1.params=x
+comment1.target=java.lang.String\ rekStart(int)
+comment2.params=n\ s
+comment2.target=java.lang.String\ methA(int,\ java.lang.String)
+comment3.params=n\ s
+comment3.target=java.lang.String\ methB(int,\ java.lang.String)
+numComments=4
