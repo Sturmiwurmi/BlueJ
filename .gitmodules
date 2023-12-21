@@ -1,3 +1,6 @@
 [submodule "BJPascalschesdreieck"]
 	path = BJPascalschesdreieck
 	url = https://github.com/Sturmiwurmi/BJPascalschesdreieck
+[submodule "BjSort"]
+	path = BjSort
+	url = https://github.com/Sturmiwurmi/BjSort
