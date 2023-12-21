@@ -13,3 +13,6 @@
 [submodule "BjS.68Nr.4"]
 	path = BjS.68Nr.4
 	url = https://github.com/Sturmiwurmi/BjS.68Nr.4
+[submodule "BjS68Nr3"]
+	path = BjS68Nr3
+	url = https://github.com/Sturmiwurmi/BjS68Nr3
