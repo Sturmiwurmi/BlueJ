@@ -4,3 +4,6 @@
 [submodule "BjSort"]
 	path = BjSort
 	url = https://github.com/Sturmiwurmi/BjSort
+[submodule "BJ21.11.Suche"]
+	path = BJ21.11.Suche
+	url = https://github.com/Sturmiwurmi/BJ21.11.Suche
