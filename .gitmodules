@@ -7,3 +7,6 @@
 [submodule "BJ21.11.Suche"]
 	path = BJ21.11.Suche
 	url = https://github.com/Sturmiwurmi/BJ21.11.Suche
+[submodule "BjS.105Nr2-5-6"]
+	path = BjS.105Nr2-5-6
+	url = https://github.com/Sturmiwurmi/BjS.105Nr2-5-6
